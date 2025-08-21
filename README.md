@@ -72,7 +72,6 @@
 ## Demo & Repository
 
 - **Live Demo:** [https://job-trackr003.netlify.app/](https://job-trackr003.netlify.app/)  
-- **GitHub Repository:** [Add your repository link here]
 
 ---
 
@@ -89,10 +88,6 @@ Click an application to see details, edit, or delete it.
 Import sample data using the Import Sample button.
 
 Export your list using the Export JSON button and re-import when needed.
-
-Demo & Repository
-
-Live Demo: [https://job-trackr003.netlify.app/]
 
 
 License
